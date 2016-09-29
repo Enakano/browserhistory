@@ -7,43 +7,7 @@ h2{
 }
 body{
   font-family: 'Open Sans', 'SansSerif';
-  color: darkblue;
+  color: white;
   margin:10px 50px 10px 50px;
-  background-color: ivory;
-}
-#nav ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#nav li{
-  display: inline;
-
-}
-
-#nav a{
-  margin-left: 75px;
-  margin-right: 75px;
-}
-
-img{
-  float: left;
-  margin-right: 10px;
-}
-.left{
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
-.right{
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
-
-.center{
-  margin-left: 400px;
-  margin-right: 400px;
-  padding: 1em;
+  background-color: black;
 }
